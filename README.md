@@ -10,3 +10,4 @@
 8. **Técnicas de reclutamiento y selección de personal** (100 h) - CESUR Centro de FP de Grado Superior
 9. **Productividad personal y gestión del tiempo** (70 h) - Centro de Desarrollo de Competencias Digitales CLM -BILIB
 10. **Formación para formadores** (100 h) - Centro de Desarrollo de Competencias Digitales CLM -BILIB
+11. **Programación Neurolingüística** (25 h) - Programa de Formación Digital CONECTA EMPLEO
