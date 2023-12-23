@@ -1,4 +1,4 @@
-### 2022-2024: Formación en Coaching, Mentoring & Soft Skills (más de 1.000 horas)
+### 2022-2024: Formación en Coaching, Mentoring & Soft Skills (más de 1000 horas)
 
 1. **Coaching: desarrollo de personas** (40 h) - Grupo Fidsoft Centro de formación
 2. **Inteligencia emocional en la empresa y gestión de cualidades** (40 h) - ALBORÁN Centro de Formación
