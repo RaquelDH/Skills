@@ -1,4 +1,4 @@
-### 2022-2024: Formación en Coaching, Mentoring & Soft Skills (más de 1000 horas)
+### 2022-2024: Formación en Coaching, Mentoring & Business Management (más de 1800 horas)
 
 1. **Coaching: desarrollo de personas** (40 h) - Grupo Fidsoft Centro de formación
 2. **Inteligencia emocional en la empresa y gestión de cualidades** (40 h) - ALBORÁN Centro de Formación
@@ -21,3 +21,13 @@
 19. **Emprendimiento social** (30 h) - Programa de Formación Digital CONECTA EMPLEO
 20. **Networking y marketing personal** (40 h) - Programa de Formación Digital CONECTA EMPLEO
 21. **Técnicas de negociación efectiva** (30 h) - Programa de Formación Digital CONECTA EMPLEO
+22. **Programa avanzado en Agile Project Management. Scrum** (150 h) - Centro Informático Profesional CEINPRO
+23. **Habilidades directivas y team management** (65 h) - Centro de formación Criteria Recursos Humanos
+24. **Leadership and management in organizations** (100 h) - Grupo Femxa especializada en consultoría y formación
+25. **Project Manager** (105 h) - Grupo HEDIMA Enseñanza Superior
+26. **Sistema de I+D+i and innovation management** (75 h) - Grupo Femxa especializada en consultoría y formación
+27. **Dirección de personas y desarrollo del talento** (40 h) - Grupo Fidsoft Centro de formación
+28. **Innovation Management** (105 h) - Grupo de investigación y formación BISITE Universidad de Salamanca
+29. **Gestión de Proyectos con Metodologías Ágiles y Enfoques Lean** (40 h) - Programa de Formación Digital CONECTA EMPLEO
+30. **Dirección y gestión de equipos de proyectos** (25 h) - ALBORÁN Centro de Formación
+31. **Activa el liderazgo femenino** - Fundación Rafael del Pino/ ICEX- CECO España Exportación e Inversiones
