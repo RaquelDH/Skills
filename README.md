@@ -21,7 +21,7 @@
 19. **Emprendimiento social** (30 h) - Programa de Formación Digital CONECTA EMPLEO
 20. **Networking y marketing personal** (40 h) - Programa de Formación Digital CONECTA EMPLEO
 21. **Técnicas de negociación efectiva** (30 h) - Programa de Formación Digital CONECTA EMPLEO
-22. 17. **Programa avanzado en Agile Project Management. Scrum** (150 h) - Centro Informático Profesional CEINPRO
+22. **Programa avanzado en Agile Project Management. Scrum** (150 h) - Centro Informático Profesional CEINPRO
 18. **Habilidades directivas y team management** (65 h) - Centro de formación Criteria Recursos Humanos
 19. **Leadership and management in organizations** (100 h) - Grupo Femxa especializada en consultoría y formación
 20. **Project Manager** (105 h) - Grupo HEDIMA Enseñanza Superior
