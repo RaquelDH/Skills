@@ -39,7 +39,7 @@
 11. **Controller Financiero** (150 h) - Academia de Oposiciones Madrid ADAMS Formación
 12. **Incoterms 2020** (20 h) - ICEX España Exportación e Inversiones CECO
 13. **Design Thinking** (50 h) - Instituto Europeo de Posgrado IEP
-14. **Transformación empresarial en la nueva economía** (15 h) - Fundación Rafael del Pino/ ICEX- CECO España Exportación e Inversiones
+14. **Transformación empresarial en la economía** (15 h) - Fundación Rafael del Pino/ ICEX- CECO España Exportación e Inversiones
 15. **La empresa en la economía digital global** (15 h) - Fundación Rafael del Pino/ ICEX- CECO España Exportación e Inversiones
 16. **Sostenibilidad empresarial y ODS** - Fundación Rafael del Pino
 17. **Programa avanzado en Agile Project Management. Scrum** (150 h) - Centro Informático Profesional CEINPRO
@@ -49,6 +49,6 @@
 21. **Sistema de I+D+i and innovation management** (75 h) - Grupo Femxa especializada en consultoría y formación
 22. **Dirección de personas y desarrollo del talento** (40 h) - Grupo Fidsoft Centro de formación
 23. **Innovation Management** (105 h) - Grupo de investigación y formación BISITE Universidad de Salamanca
-24. **Gestión de Proyectos con Metodologías Ágiles y Enfoques Lean** (40 h) - Programa de Formación Digital CONECTA EMPLEO
+24. **Gestión de Proyectos con Metodologías Ágiles y Lean** (40 h) - Programa de Formación Digital CONECTA EMPLEO
 25. **Dirección y gestión de equipos de proyectos** (25 h) - ALBORÁN Centro de Formación
 26. **Activa el liderazgo femenino** - Fundación Rafael del Pino/ ICEX- CECO España Exportación e Inversiones
