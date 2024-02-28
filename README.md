@@ -31,3 +31,6 @@
 24. **Gestión de Proyectos con Metodologías Ágiles y Lean** (40 h) - Programa de Formación Digital CONECTA EMPLEO
 25. **Dirección y gestión de equipos de proyectos** (25 h) - ALBORÁN Centro de Formación
 26. **Activa el liderazgo femenino** - Fundación Rafael del Pino/ ICEX- CECO España Exportación e Inversiones
+🚀💼📈
+🚀🔍🌟
+🌱✨🧠
